@@ -40,6 +40,7 @@ Need a better name for this section. It is important. We mean API specs and not 
 * [positional plausibility of POIs in OpenStreetMap](http://openstreetmap.me/)
 * [generate printable maps from OpenStreetMap](https://maposmatic.osm-baustelle.de/)
 * [Enigma.com - Explore the world’s broadest repository of public data](https://public.enigma.com/)
+* [Invokely](https://invokely.ai/docs) - Hosted MCP service and web tools for querying source-cited official statistics. Free MCP plan: 500 calls/month; no-account trial: 25 calls/day/IP. REST data calls require Builder, Pro, or prepaid credits; data reuse follows each publisher's terms ([pricing](https://invokely.ai/pricing), [sources](https://invokely.ai/sources)).
 * [Combine OpenStreetMap and Wikidata](https://sophox.org/sophox/)
 * [Openstreetmap tag history analyzer](https://ohsome.org/apps/kll-dashboard-preview/)
 
